@@ -510,7 +510,7 @@ a { color: inherit; text-decoration: none; }
   text-transform: uppercase;
   margin-bottom: 16px;
 }
-.site-footer .footer-brand img { height: 40px; width: auto; background: #fff; border-radius: 6px; padding: 5px 10px; margin-bottom: 16px; }
+.site-footer .footer-brand img { height: 44px; width: auto; background: #fff; border-radius: 6px; padding: 6px 12px; margin-bottom: 16px; }
 .site-footer p { max-width: 340px; }
 .site-footer ul { list-style: none; }
 .site-footer li { margin-bottom: 10px; }
